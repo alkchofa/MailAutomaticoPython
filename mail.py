@@ -2,7 +2,7 @@ import smtplib
  
 fromaddr = 'Montoto@hotmail.com'
 toaddrs  = 'destino@gmail.com'
-msg = """ Este seria todo el cuerpo del mensaje"""
+msg = """ Este seria todo el cuerpo del mensaje."""
 Subject = 'Asunto '
  
 
